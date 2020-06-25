@@ -2,6 +2,7 @@ title: Anypoint Platform Patterns
 author: Gerald Loeffler
 remote_theme: broccolini/swiss
 plugins:
+  - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-sitemap
   - jekyll-feed
