@@ -1,1 +1,5 @@
+url: "https://integrational.github.io/anypoint-platform-patterns"
 remote_theme: broccolini/swiss
+plugins:
+  - jekyll-titles-from-headings
+  - jekyll-sitemap
