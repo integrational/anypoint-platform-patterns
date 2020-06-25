@@ -1,6 +1,7 @@
 title: Anypoint Platform Patterns
 author: Gerald Loeffler
-remote_theme: broccolini/swiss
+#remote_theme: broccolini/swiss
+theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-feed
