@@ -1,7 +1,7 @@
 title: Anypoint Platform Patterns
 #description: "A pattern language for developing and operating software and services on MuleSoft's Anypoint Platform."
 #url: "https://integrational.github.io/anypoint-platform-patterns"
-#author: Gerald Loeffler
+author: Gerald Loeffler
 remote_theme: broccolini/swiss
 plugins:
   - jekyll-titles-from-headings
