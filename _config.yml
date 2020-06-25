@@ -6,6 +6,6 @@ remote_theme: broccolini/swiss
 plugins:
   - jekyll-titles-from-headings
   - jekyll-sitemap
-  #- jekyll-feed
+  - jekyll-feed
 feed:
   tags: true
