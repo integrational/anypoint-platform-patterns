@@ -1,8 +1,8 @@
 ---
-tags: architecture
+about: [ "a", "d" ]
 ---
 
-# An Architecture Pattern
+# An Architecture Pattern Touching on Development
 
 ## Intent
 
