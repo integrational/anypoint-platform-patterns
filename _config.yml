@@ -1,19 +1,13 @@
 title: Anypoint Platform Patterns
 author: Gerald Loeffler
+email: gerald@integrational.eu
+#twitter_username: jekyllrb
+github_username:  GeraldLoeffler
+markdown: GFM
 #remote_theme: broccolini/swiss
 theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  # plugins enable by default in GitHub Pages but not in standalone Jekyll
-  - jekyll-coffeescript
-  - jekyll-default-layout
-  - jekyll-gist
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-titles-from-headings
-  - jekyll-relative-links
 feed:
   tags: true
