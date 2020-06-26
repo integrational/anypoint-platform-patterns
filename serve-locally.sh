@@ -5,8 +5,8 @@
 
 docker pull integrational/gh-pages
 
-docker run --name gh-pages --rm -it       \
-  -p 4000:4000                            \
-  -v $(pwd):/src/site                     \
-  integrational/gh-pages                  \
-  bundle update && bundle exec jekyll serve
+docker run --name gh-pages --rm -it                    \
+  -p 4000:4000                                         \
+  -v $(pwd):/src/site                                  \
+  integrational/gh-pages                               \
+  bundle update && bundle exec jekyll serve --baseurl ''

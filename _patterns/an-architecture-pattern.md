@@ -1,5 +1,5 @@
 ---
-about: [ "a", "d" ]
+about: [ "arch", "dev" ]
 ---
 
 # An Architecture Pattern Touching on Development

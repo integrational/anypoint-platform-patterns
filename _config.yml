@@ -1,4 +1,5 @@
 title: Anypoint Platform Patterns
+baseurl: "/anypoint-platform-patterns" # https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908
 author: Gerald Loeffler
 email: gerald@integrational.eu
 github_username: integrational
@@ -26,5 +27,5 @@ defaults:
 header_pages:
   - patterns.md
 # keywords:
-# for 'about' in patterns use: "a" (= architecture), "d" (= development), "o" (= operation) 
+# for 'about' in patterns use: "arch" (= architecture), "dev" (= development), "ops" (= operation) 
 AP: "[Anypoint Platform](https://www.mulesoft.com/platform)"
