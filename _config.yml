@@ -11,3 +11,5 @@ plugins:
   - jekyll-feed
 feed:
   tags: true
+titles_from_headings:
+  strip_title: true
